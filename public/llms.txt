@@ -1,0 +1,135 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Navigate loss, break abusive cycles, and reclaim your power. Ariel Boton guides your journey from profound pain to authentic transformation.
+
+### All Products
+https://example.com/all-products
+Discover empowering books and tools for survivors of abuse, transgender individuals, and anyone seeking transformation through lived experience.
+
+### Podcast
+https://example.com/podcast-english
+Listen to authentic conversations about overcoming abuse, navigating identity, and finding power in vulnerability. New episodes weekly.
+
+### About
+https://example.com/about
+Author and advocate sharing hard-won wisdom from surviving abuse, depression, and profound loss. Learn how authentic experience fuels empowerment.
+
+### Blog
+https://example.com/blog
+Read practical guidance and honest reflections on trauma recovery, building support networks, and transforming pain into purpose. Start here.
+
+### Contact Ariel Boton
+https://example.com/contact-us
+Ready to connect? Reach out for speaking engagements, advocacy partnerships, or personal guidance. Your message matters—let&#39;s talk.
+
+### Ariel Boton
+https://example.com/product/memories-of-a-beaten-men-copy
+A powerful memoir exposing the hidden reality of male domestic violence survivors. Find validation, hope, and practical steps toward freedom.
+
+### Ariel Boton
+https://example.com/product/diary-of-a-transgender-woman
+An intimate journey through identity, courage, and self-discovery. Raw, honest, and deeply human—this diary validates your transgender experience.
+
+### Ariel Boton
+https://example.com/product/memories-of-a-transgender-woman-the-diamond-castle
+Discover how adversity transforms into unbreakable strength. This transgender woman&#39;s journey reveals the diamond within your own struggles.
+
+### My Course
+https://example.com/my-course
+Structured guidance for survivors and seekers. Learn proven strategies for healing trauma, building resilience, and reclaiming your authentic life.
+
+### Ariel Boton
+https://example.com/shipping-returns-policy
+Your satisfaction matters. Review our straightforward shipping timelines and hassle-free return policy for all books and resources.
+
+### Ariel Boton
+https://example.com/privacy-policy
+Understand how we protect your personal information with transparency and care. Your trust and confidentiality are our highest priorities.
+
+### Ariel Boton
+https://example.com/accessibility-statement
+Our commitment to making transformation resources available to everyone, regardless of ability. Learn about our accessibility features and support.
+
+### My Account
+https://example.com/my-account
+Access your purchased resources, track orders, and update preferences. Your personal development library awaits in one secure place.
+
+### Ariel Boton
+https://example.com/product/כלים-לעבודה-וחיים-מאושרים-לטרנגנדרית
+Practical resources for navigating work, relationships, and daily life with confidence. Empower your authentic transgender journey today.
+
+### Ariel Boton
+https://example.com/product/כלים-משפטיים-לגבר-מוכה
+Essential legal guidance for male domestic violence survivors. Know your rights, protect yourself, and navigate the system with confidence.
+
+### Coming Out Practical Tips And Emotional Preparation
+https://example.com/coming-out-practical-tips-and-emotional-preparation
+Prepare emotionally and practically for your coming out journey. Expert tips to navigate conversations, manage reactions, and honor your truth.
+
+### Self
+https://example.com/self-care-practices-every-transgender-individual-needs
+Discover vital self-care practices that honor your unique journey. Protect your mental health and nurture resilience through identity challenges.
+
+### From Shame To Strength Overcoming The Stigma Of Being A Male Survivor
+https://example.com/from-shame-to-strength-overcoming-the-stigma-of-being-a-male-survivor
+Male survivors face unique stigma. Learn how to transform shame into unshakeable strength and claim your identity beyond victimhood.
+
+### How To Build A Support Network When The World Says No
+https://example.com/how-to-build-a-support-network-when-the-world-says-no
+When society rejects you, create your own circle of strength. Proven strategies for finding allies, building community, and never facing struggles alone.
+
+### Breaking The Silence Why Men Struggle To Report Domestic Violence
+https://example.com/breaking-the-silence-why-men-struggle-to-report-domestic-violence
+Understand the cultural barriers keeping male victims trapped in silence. Learn why reporting feels impossible and how to break through fear.
+
+### 5 Signs Youre In An Abusive Relationship That Men Often Miss
+https://example.com/5-signs-youre-in-an-abusive-relationship-that-men-often-miss
+Recognize the subtle warning signs male victims commonly miss. These red flags could save your life—learn what abuse really looks like for men.
+
+### 10 Daily Habits That Support Trauma Recovery
+https://example.com/10-daily-habits-that-support-trauma-recovery
+Small daily practices create profound recovery. Discover ten evidence-informed habits that rebuild your nervous system and restore inner peace.
+
+### by
+https://example.com/how-to-leave-an-abusive-relationship-as-a-man-a-step-by-step-guide
+A comprehensive step-by-step guide for men planning to leave abusive relationships. Protect yourself, secure resources, and reclaim your freedom.
+
+### Rebuilding Trust After Experiencing Violence A Guide For Men
+https://example.com/rebuilding-trust-after-experiencing-violence-a-guide-for-men
+Violence shatters trust in yourself and others. Learn how male survivors can carefully reconstruct healthy relationships and self-confidence.
+
+### Why Society Doesnt Believe Male Victims And How To Change That
+https://example.com/why-society-doesnt-believe-male-victims-and-how-to-change-that
+Expose the cultural myths that silence male survivors and discover how advocacy, storytelling, and courage are shifting public perception forever.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt

@@ -1,0 +1,43 @@
+# Clean URL redirects for Render static hosting
+# Generated: 2026-02-28T18:58:59.569Z
+# NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
+# This file is kept for reference only
+
+/all-products  /all-products.html  200!
+/podcast-english  /podcast-english.html  200!
+/about  /about.html  200!
+/blog  /blog.html  200!
+/contact-us  /contact-us.html  200!
+/product/memories-of-a-beaten-men-copy  /product/memories-of-a-beaten-men-copy.html  200!
+/product/diary-of-a-transgender-woman  /product/diary-of-a-transgender-woman.html  200!
+/product/memories-of-a-transgender-woman-the-diamond-castle  /product/memories-of-a-transgender-woman-the-diamond-castle.html  200!
+/my-course  /my-course.html  200!
+/shipping-returns-policy  /shipping-returns-policy.html  200!
+/privacy-policy  /privacy-policy.html  200!
+/accessibility-statement  /accessibility-statement.html  200!
+/my-account  /my-account.html  200!
+/product%2F%D7%9B%D7%9C%D7%99%D7%9D-%D7%9C%D7%A2%D7%91%D7%95%D7%93%D7%94-%D7%95%D7%97%D7%99%D7%99%D7%9D-%D7%9E%D7%90%D7%95%D7%A9%D7%A8%D7%99%D7%9D-%D7%9C%D7%98%D7%A8%D7%A0%D7%92%D7%A0%D7%93%D7%A8%D7%99%D7%AA  /product/כלים-לעבודה-וחיים-מאושרים-לטרנגנדרית/index.html  200!
+/product%2F%D7%9B%D7%9C%D7%99%D7%9D-%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%99%D7%9D-%D7%9C%D7%92%D7%91%D7%A8-%D7%9E%D7%95%D7%9B%D7%94  /product/כלים-משפטיים-לגבר-מוכה/index.html  200!
+/coming-out-practical-tips-and-emotional-preparation  /coming-out-practical-tips-and-emotional-preparation.html  200!
+/self-care-practices-every-transgender-individual-needs  /self-care-practices-every-transgender-individual-needs.html  200!
+/from-shame-to-strength-overcoming-the-stigma-of-being-a-male-survivor  /from-shame-to-strength-overcoming-the-stigma-of-being-a-male-survivor.html  200!
+/how-to-build-a-support-network-when-the-world-says-no  /how-to-build-a-support-network-when-the-world-says-no.html  200!
+/breaking-the-silence-why-men-struggle-to-report-domestic-violence  /breaking-the-silence-why-men-struggle-to-report-domestic-violence.html  200!
+/5-signs-youre-in-an-abusive-relationship-that-men-often-miss  /5-signs-youre-in-an-abusive-relationship-that-men-often-miss.html  200!
+/10-daily-habits-that-support-trauma-recovery  /10-daily-habits-that-support-trauma-recovery.html  200!
+/how-to-leave-an-abusive-relationship-as-a-man-a-step-by-step-guide  /how-to-leave-an-abusive-relationship-as-a-man-a-step-by-step-guide.html  200!
+/rebuilding-trust-after-experiencing-violence-a-guide-for-men  /rebuilding-trust-after-experiencing-violence-a-guide-for-men.html  200!
+/why-society-doesnt-believe-male-victims-and-how-to-change-that  /why-society-doesnt-believe-male-victims-and-how-to-change-that.html  200!
+/privacy  /privacy.html  200!
+/accessibility  /accessibility.html  200!
+/terms  /terms.html  200!
+
+# Legal pages - redirect old .html URLs to friendly URLs
+/privacy.html  /privacy  301
+/accessibility.html  /accessibility  301
+/terms.html  /terms  301
+
+/  /index.html  200!
+
+# SPA fallback - serve index.html for all unmatched routes
+/*  /index.html  200
